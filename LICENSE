@@ -1,24 +1,116 @@
-This is free and unencumbered software released into the public domain.
+IOTYPES PRIVATE SOFTWARE LICENSE
+Copyright (c) 2026 IOTYPES. All rights reserved.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+1. DEFINITIONS
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+"Software" means the source code, object code, build artifacts,
+documentation, configuration, and any related materials provided by
+IOTYPES.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+"IOTYPES" means IOTYPES and its affiliates.
 
-For more information, please refer to <https://unlicense.org>
+"Licensee" means the individual or entity receiving the Software from
+IOTYPES.
+
+"Authorized Users" means Licensee’s employees or contractors who
+require access to the Software for the permitted use described herein
+and who are bound by confidentiality obligations no less protective
+than those set forth in this License.
+
+2. OWNERSHIP
+
+The Software is and shall remain the exclusive property of IOTYPES.
+IOTYPES retains all right, title, and interest in and to the Software,
+including all intellectual property rights therein. No rights are
+granted to Licensee except those expressly stated in this License.
+
+3. LIMITED LICENSE GRANT
+
+Subject to Licensee’s compliance with this License, IOTYPES grants
+Licensee a limited, revocable, non-exclusive, non-transferable, and
+non-sublicensable license to use the Software solely for Licensee’s
+internal business operations. Licensee may make copies of the Software
+only as reasonably necessary for installation, backup, and internal
+use. Licensee may modify the Software solely for internal use, provided
+that all such modifications and derivative works shall remain the
+property of IOTYPES unless otherwise agreed in a separate written
+agreement.
+
+4. RESTRICTIONS
+
+Licensee shall not, and shall not permit any third party to sell,
+sublicense, rent, lease, distribute, publish, disclose, or otherwise
+make the Software available to any third party. Licensee shall not use
+the Software to provide services to third parties, including but not
+limited to software-as-a-service, hosting, time-sharing, or service
+bureau arrangements, unless expressly authorized in writing by
+IOTYPES. Licensee shall not reverse engineer, decompile, or disassemble
+the Software except where such restriction is prohibited by applicable
+law. Licensee shall not remove or alter proprietary notices, branding,
+or license terms. Licensee shall not use the Software to develop,
+create, or improve a competing product or service.
+
+5. CONFIDENTIALITY
+
+The Software, including its source code and non-public documentation,
+constitutes confidential information of IOTYPES. Licensee shall protect
+such information using at least reasonable care and shall restrict
+access solely to Authorized Users.
+
+6. FEEDBACK, MODIFICATIONS, AND DERIVATIVE WORKS
+
+Unless otherwise agreed in writing, any feedback provided by Licensee
+may be used by IOTYPES without restriction or obligation. Any
+modifications, enhancements, or derivative works created by or for
+Licensee based on the Software are hereby assigned to IOTYPES.
+Licensee agrees to execute any documents reasonably necessary to
+confirm such assignment.
+
+7. TERM AND TERMINATION
+
+This License shall remain in effect until terminated. IOTYPES may
+terminate this License immediately upon any breach by Licensee. Upon
+termination, Licensee shall cease all use of the Software, destroy all
+copies including backups, and certify such destruction upon request.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY
+OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+OR NON-INFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IOTYPES SHALL NOT BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
+OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, OR BUSINESS INTERRUPTION
+ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS LICENSE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. TO THE MAXIMUM EXTENT
+PERMITTED BY LAW, IOTYPES' TOTAL LIABILITY ARISING OUT OF OR RELATED TO
+THIS LICENSE SHALL NOT EXCEED THE AMOUNT PAID BY LICENSEE TO IOTYPES
+FOR THE SOFTWARE DURING THE TWELVE MONTHS PRECEDING THE EVENT GIVING
+RISE TO LIABILITY, OR USD 100 IF NO FEES WERE PAID.
+
+10. COMPLIANCE AND EXPORT
+
+Licensee shall comply with all applicable laws and regulations,
+including export control and sanctions laws, in connection with its
+use of the Software.
+
+11. GOVERNING LAW
+
+This License shall be governed by the laws of the jurisdiction
+specified in a separate written agreement between the parties. In the
+absence of such agreement, this License shall be governed by the laws
+of the jurisdiction in which IOTYPES maintains its principal place of
+business, excluding conflict of law principles.
+
+12. ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between the parties
+concerning the Software and supersedes all prior or contemporaneous
+understandings relating thereto, unless superseded by a separate
+written agreement duly executed by both Licensee and IOTYPES.
+
+Contact: info@iotypes.com
