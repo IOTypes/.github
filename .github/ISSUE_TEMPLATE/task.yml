@@ -1,0 +1,55 @@
+name: Task
+description: Create a new task for backlog tracking
+title: "[type]: short description"
+labels: []
+assignees: []
+
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - feat
+        - fix
+        - chore
+        - docs
+        - refactor
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Short description of the task
+    validations:
+      required: true
+
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objective
+      description: What must be true when this is complete
+      placeholder: |
+        - 
+        - 
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: Implementation completed
+        - label: Tests added or updated
+        - label: Lint passes
+        - label: Build passes
+        - label: PR linked
+
+  - type: input
+    id: pr
+    attributes:
+      label: PR Link
+      placeholder: "#123"
