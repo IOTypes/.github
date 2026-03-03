@@ -2,7 +2,7 @@
 - Closes \#\<issue-id> 
 <!--  https://github.com/IOTypes/REPO/issues/TICKET-NO  --> 
 
-## 📑 Description
+## Description
 <!-- Add a brief description of the pr -->
 
 <!-- You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
@@ -18,5 +18,5 @@
 - [ ] DB migrations included (if needed) and backwards-compatible (if possible)
 - [ ] Docs/README updated (if needed)
 
-## ℹ Additional Information
+## Additional Information
 <!-- Any additional information like breaking changes, dependencies added, screenshots, comparisons between new and old behavior, etc. -->
