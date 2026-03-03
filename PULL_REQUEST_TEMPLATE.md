@@ -3,7 +3,7 @@
 - Closes \#\<issue-id> 
 - https://github.com/IOTypes/REPO/issues/TICKET-NO
 
-# What/Why
+## What/Why
 What changes has been implemented.
 
 ## Checklist
