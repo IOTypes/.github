@@ -26,10 +26,10 @@ body:
     validations:
       required: true
 
-  - type: markdown
+  - type: textarea
     id: objective
     attributes:
-      value: "What is expected."
+       label: What is the objective.
 
   - type: checkboxes
     id: checklist
