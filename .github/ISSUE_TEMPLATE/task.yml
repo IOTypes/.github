@@ -34,8 +34,6 @@ body:
       placeholder: |
         - 
         - 
-    validations:
-      required: false
 
   - type: checkboxes
     id: checklist
