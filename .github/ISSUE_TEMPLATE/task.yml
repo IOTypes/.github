@@ -28,6 +28,8 @@ body:
 
   - type: markdown
     id: objective
+    attributes:
+      value: "What is expected."
 
   - type: checkboxes
     id: checklist
