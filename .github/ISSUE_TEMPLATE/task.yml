@@ -28,12 +28,6 @@ body:
 
   - type: markdown
     id: objective
-    attributes:
-      label: Objective
-      description: What must be true when this is complete
-      placeholder: |
-        - 
-        - 
 
   - type: checkboxes
     id: checklist
