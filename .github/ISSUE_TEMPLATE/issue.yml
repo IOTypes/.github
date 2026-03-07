@@ -1,0 +1,47 @@
+name: Issue
+description: Create a new issue for fixing.
+title: "[Issue]: "
+labels: [thestral, bug]
+assignees: []
+
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - hotfix
+        - bug
+        - refactor
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is the issue
+      description: Short description of the task
+    validations:
+      required: true
+
+  - type: textarea
+    id: objective
+    attributes:
+       label: What needs to be fixed
+    validations:
+      required: true
+
+  - type: textarea
+    id: objective
+    attributes:
+       label: Issue screenshots or logs
+       
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: I have done the following
+      options:
+        - label: Fix implemented completed
+        - label: Tests added or updated
+        - label: Lint passes
+        - label: Build passes
