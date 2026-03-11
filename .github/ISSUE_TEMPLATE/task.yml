@@ -1,8 +1,9 @@
 name: Task
 description: Create a new task for backlog tracking
-title: "short description"
+title: "[task]: "
 labels: []
 assignees: []
+type: task
 
 body:
   - type: dropdown
@@ -34,10 +35,10 @@ body:
   - type: checkboxes
     id: checklist
     attributes:
-      label: Checklist
+      label: Changes required
       options:
-        - label: Implementation completed
-        - label: Tests added or updated
-        - label: Lint passes
-        - label: Build passes
-        - label: PR linked
+        - label: API
+        - label: Database
+        - label: UI Flow
+        - label: Dependencies
+        
