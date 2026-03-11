@@ -3,7 +3,7 @@ description: Create a new issue for fixing.
 title: "[Issue]: "
 labels: [thestral, bug]
 assignees: []
-
+type: bug
 body:
   - type: dropdown
     id: type
@@ -13,14 +13,6 @@ body:
         - hotfix
         - bug
         - refactor
-    validations:
-      required: true
-
-  - type: textarea
-    id: issue
-    attributes:
-      label: What is the issue
-      description: Short description of the task
     validations:
       required: true
 
@@ -41,7 +33,5 @@ body:
     attributes:
       label: I have done the following
       options:
-        - label: Fix implemented completed
-        - label: Tests added or updated
-        - label: Lint passes
-        - label: Build passes
+        - label: Fixed the issue
+        - label: Tested locally
